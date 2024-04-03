@@ -1,0 +1,17 @@
+cumm==0.4.11
+cython==3.0.6
+einops==0.6.1
+matplotlib==3.5.3
+numpy==1.21.5
+open3d==0.17.0
+opencv-python==4.8.1.78
+shapely==2.0.2
+wandb==0.16.1
+tqdm==4.66.1
+timm==0.9.12
+openmim==0.3.9
+mmdet==3.2.0
+mmsegmentation==1.2.1
+spconv==2.3.6
+#spconv-cu113==2.3.6
+tqdm==4.66.1

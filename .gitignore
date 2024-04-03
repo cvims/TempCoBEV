@@ -1,3 +1,14 @@
+.vscode
+
+*.png
+*.jpg
+
+opencood/logs
+opencood/hypes_yaml/*.yaml
+opencood/hypes_yaml/**/*.yaml
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
